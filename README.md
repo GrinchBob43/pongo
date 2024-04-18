@@ -1,7 +1,12 @@
-# Pong!
+# 
+  ______   .______    _______ .__   __.    .______     ______   .__   __.   _______ 
+ /  __  \  |   _  \  |   ____||  \ |  |    |   _  \   /  __  \  |  \ |  |  /  _____|
+|  |  |  | |  |_)  | |  |__   |   \|  |    |  |_)  | |  |  |  | |   \|  | |  |  __  
+|  |  |  | |   ___/  |   __|  |  . `  |    |   ___/  |  |  |  | |  . `  | |  | |_ | 
+|  `--'  | |  |      |  |____ |  |\   |    |  |      |  `--'  | |  |\   | |  |__| | 
+ \______/  | _|      |_______||__| \__|    | _|       \______/  |__| \__|  \______| 
+                                                                                    
 
 Follow the [guide](guide/README.md).
 
-This repository only contains the guide. There's no starter code. To get a
-Codespace with a virtual desktop and `pygame`, you can fork the
-[`pygame-starter`](https://github.com/northridge-dev/pygame-starter) repository.
+  The open source pong game by GrinchBob Studioos
