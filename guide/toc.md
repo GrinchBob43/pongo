@@ -17,3 +17,19 @@
 - [git in practice, or your first commit](guide_010.md)
 
 ## [`pygame` and a (very) basic game loop](guide_011.md)
+
+- [create `pong.py`](guide_012.md)
+- [import `pygame`](guide_013.md)
+- [initialize and quit `pygame`](guide_014.md)
+- [create a window](guide_015.md)
+- [launching the virtual desktop](guide_016.md)
+- [vanishing window](guide_017.md)
+- [experimenting with ways to keep the window open](guide_018.md)
+- [a loop to keep the game going](guide_019.md)
+- [listening for events](guide_020.md)
+- [game loop speed limit](guide_021.md)
+- [the `QUIT` event](guide_022.md)
+- [quitting the game](guide_023.md)
+- [summary: basic game loop](guide_024.md)
+
+## [drawing to the window](guide_025.md)
